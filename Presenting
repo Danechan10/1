@@ -1,0 +1,21 @@
+public class Presentation {
+    public static void main(String[] args) {
+        System.out.println("Title: Why I Shouldn't Be President\n");
+
+        System.out.println("Slide 1: Introduction");
+        System.out.println("- Opening statement: \"While many aspire to become president, there are valid reasons why some individuals, including myself, may not be suited for the role.\"");
+        System.out.println("- Brief overview of presentation content.\n");
+
+        System.out.println("Slide 2: Lack of Political Experience");
+        System.out.println("- Bullet point: \"Limited or no experience in politics and governance.\"");
+        System.out.println("- Subpoints:");
+        System.out.println("  - \"Inexperienced in navigating complex political landscapes.\"");
+        System.out.println("  - \"Lack of understanding of government processes and procedures.\"");
+        System.out.println("  - \"Difficulty in making informed policy decisions without prior experience.\"\n");
+
+        // Similarly, continue with the rest of the slides...
+        
+        System.out.println("Slide 8: Thank You");
+        System.out.println("- Closing slide with a \"Thank You\" message.");
+    }
+}
